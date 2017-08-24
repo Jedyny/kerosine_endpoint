@@ -1,0 +1,94 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Decline Bench Press",
+      "description": "The Bench Press is an upper body strength training exercise. The exercise works the entire pectoralis major as well as the anterior deltoids, serratus anterior and the triceps.The Decline Bench Press focuses mainly on the middle and lower part of  the chest, with less pressure on the shoulder joints and deltoids. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/126/thumbnail/136_Decline_Bench_Press_compress.png"
+    },
+    {
+      "id": 2,
+      "name": "Shoulder Press",
+      "description": "The Shoulder Press targets the deltoid muscles in the shoulders as well as the triceps. The lifter raises the barbell overhead by pressing the palms of the hands against the underside of the barbell.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/022/thumbnail/ex_107_standing_barbell_press.png"
+    },
+    {
+      "id": 3,
+      "name": "Sumo Dead Lift",
+      "description": "The Sumo Deadlift is a variation of the Conventional Deadlift. When the barbell is gripped with the lifter's hands inside their legs, the form is considered \"Sumo.\"  It is an exercise that works nearly every major muscle group in your body including the glutes, hamstrings, quadriceps and lower back.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/143/thumbnail/130_sumo_dead_lift_compress.png"
+    },
+    {
+      "id": 4,
+      "name": "Shoulder Shrug",
+      "description": "The Shoulder shrug is an exercise  which works primarily your  upper trapezius muscle.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/041/thumbnail/ex_060_shoulder_shrug.png"
+    },
+    {
+      "id": 5,
+      "name": "Reverse Crunch",
+      "description": "The reverse crunch strengthens your abdominal muscles. The exercise targets more your lower abdominals than what a normal crunch do.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/115/thumbnail/100_reverse_crunches_compress.png"
+    },
+    {
+      "id": 6,
+      "name": "Upright Cable Row",
+      "description": "The upright row is a  exercise that involves the trapezius, the deltoids and the biceps. The narrower the grip the more the trapezius muscles are exercised, as opposed to the deltoids.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/086/thumbnail/ex_049_upright_cable_row.png"
+    },
+    {
+      "id": 7,
+      "name": "Bench Press",
+      "description": "The Bench Press works primary the chest muscles. Additionally it also strengthens the anterior deltoids, serratus anterior and the triceps muscles. The Barbell Bench Press is one of three lifts in the sport of powerlifting.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/002/thumbnail/bench_press_720.png"
+    },
+    {
+      "id": 8,
+      "name": "Machine Calf Raise",
+      "description": "Calf raises targets the gastrocnemius, tibialis posterior and soleus muscles of the lower leg. ",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/072/thumbnail/ex_052_standing_calf_raise_compress.png"
+    },
+    {
+      "id": 9,
+      "name": "Squat",
+      "description": "The Squat is a full body exercise that trains primarily the muscles of the  legs and buttocks, as well as developing core strength. Isometrically, the lower and upper back, the abdominals and the shoulders and arms are all essential to the exercise.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/005/thumbnail/ex_009_half_squat_compress.png"
+    },
+    {
+      "id": 10,
+      "name": "Incline Bench Press",
+      "description": "The Bench Press is an upper body strength training exercise. The exercise works the pectoralis major as well as the anterior deltoids, serratus anterior and the triceps. In the incline position the focus is set  on the upper part of  pectoralis major. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/125/thumbnail/134_Incline_Bench_Press_compress.png"
+    },
+    {
+      "id": 11,
+      "name": "Shoulder Internal Rotation",
+      "description": "The Shoulder Internal Rotation targets especially the subscapularis muscle.The four rotator cuff muscles (supraspinatus, infraspinatus, teres minor, and subscapularis) are the key to providing stability to the shoulder complex.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/109/thumbnail/133_Shoulder_Internal_Rotation_compress.png"
+    },
+    {
+      "id": 12,
+      "name": "Low-Pulley Lateral Raise",
+      "description": "Low-Pulley Lateral Raise, also known as Deltoid Raise  is a shoulder exercise in which the arm is raised and lowered against resistance. Standard lateral raises are isolation exercises that target the lateral part of the deltoid muscle. You can do the exercise with the low-pulley, dumbbells or a variety of weight machines. ",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/026/thumbnail/ex_065_low_pulley_lateral_raise.png"
+    },
+    {
+      "id": 13,
+      "name": "Triceps Pushdown",
+      "description": "A pushdown is a strength training exercise used for strengthening the triceps muscles in the back of the arm. This exercise is an example of the primary function of the triceps, extension of the elbow joint.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/016/thumbnail/ex_005_triceps_pushdown_compress.png"
+    },
+    {
+      "id": 14,
+      "name": "Cross Over Crunch",
+      "description": "The Cross Over Crunch develops both the abdominals and the external and internal obliques.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/051/thumbnail/106_cross_over_crunch_compress.png"
+    },
+    {
+      "id": 15,
+      "name": "Stair Climber",
+      "description": "The stair climber machine is like a small  staircase with handrails. The Stairs Stepper  strengthens your legs, heart and lungs at the same time. It is a low-impact option  but also weight-bearing.  Muscles worked include your glutes, quadriceps, hamstrings and calves.",
+      "thumbnail_url": "https://gymmaster-img.s3.amazonaws.com/exercises/animated_icons/000/000/104/thumbnail/031_stair_climber_compress.png"
+    }
+  ]
+}
